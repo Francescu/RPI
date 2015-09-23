@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "mongodb": "^2.0.43",
+    "opencv": "^3.2.0"
   },
   "devDependencies": {},
   "scripts": {
